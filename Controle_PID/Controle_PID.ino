@@ -8,7 +8,7 @@ float distancia; // o valor de distancia do objeto ao sensor
 float ultima_distancia; // o valor de distancia do objeto ao sensor
 
 // Coeficientes de calibração do controlador PID
-float kp = 10;
+float kp = 1;
 float ki = 1;
 float kd = 1;
 
